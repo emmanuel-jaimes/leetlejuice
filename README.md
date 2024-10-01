@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0169-majority-element) |
@@ -13,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0189-rotate-array) |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
