@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -50,4 +52,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
