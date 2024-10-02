@@ -42,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
