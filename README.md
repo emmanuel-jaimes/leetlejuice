@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
