@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -50,7 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0013-roman-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
