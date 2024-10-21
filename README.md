@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0189-rotate-array) |
+| [2350-find-closest-number-to-zero](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
