@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -76,5 +78,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/emmanuel-jaimes/leetlejuice/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
